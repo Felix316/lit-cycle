@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "price": 4.99,
+      "condition": "Like New",
+      "image": "/images/gatsby.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "price": 6.50,
+      "condition": "Slightly Worn",
+      "image": "/images/dune.jpg"
+    }
+  ]
